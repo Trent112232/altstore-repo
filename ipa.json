@@ -4,20 +4,20 @@
     "sourceURL": "https://altstore.trentdev.net/",
     "apps": [
         {
-            "name": "LootValley",
-            "subtitle": "LootValley",
-            "bundleIdentifier": "com.lootvalley.loot",
-            "developerName": "AppValley",
-            "version": "1.2",
+            "name": "UTM",
+            "subtitle": "Computer emulator for iOS",
+            "bundleIdentifier": "com.ipastore.utm",
+            "developerName": "UTM Team",
+            "version": "2.0.11",
             "versionDate": "2020-11-21T11:55:19+00:00",
             "versionDescription": "",
-            "downloadURL": "https://cdn.app-valley.vip/companion/1539.com.lootvalley.loot.ipa?1605959719",
-            "localizedDescription": "FREE money. By simply downloading apps.",
-            "iconURL": "https://img.app-valley.vip/icon/1555.png",
+            "downloadURL": "https://github.com/utmapp/UTM/releases/download/v2.0.11/UTM.ipa",
+            "localizedDescription": "UTM is a virtual machine designed for iDevices. It allows the user to run Windows, Android, Linux and other operating systems on their iDevice.",
+            "iconURL": "https://lh4.googleusercontent.com/6Brg6iN9P_2z7Qv2no_RLfHwhpziRu_sY4VmF0Q--C9f-1G-zhUfE-NtfpOjmtUYe-d3LbZFcNr0uwIRBfJP4PFR84N62iFvxSZW7qrCO8Zcu_5GQbueS9h5HmCxdo4hDVpDtXulzQ=w73-h73",
             "tintColor": "10b6ff",
-            "size": 50187194,
+            "size": 1558400,
             "screenshotURLs": [
-                "https://img.app-valley.vip/screenshot/1555.png"
+                "https://images.cntechpost.com/images/2020/02/22/121.jpg"
             ]
         }
     ],
@@ -28,7 +28,7 @@
             "caption": "Welcome to our new AltStore IPA Source.",
             "tintColor": "ff0051",
             "url": "https://trentdev.net/ipastore/",
-            "imageURL": "https://i.imgur.com/fgXp6Lu.png",
+            "imageURL": "https://cdn.discordapp.com/attachments/523529891619274773/785952008153595994/ipastore.png",
             "date": "2020-12-08",
             "notify": false
         }
