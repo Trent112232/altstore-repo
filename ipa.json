@@ -102,24 +102,24 @@
             "localizedDescription": "Facebook++ is a tweaked modification to the iOS social-media app Facebook.",
             "iconURL": "https://lh5.googleusercontent.com/rRNVTzSAmnTGjsiutKKY1QhKpyqxs1G1QDCrhz-DzADYruV_nWBX_oreoBsTQwV79vFzkaFZOA70m5_CZVQ_JfLPcndmeYBtmMA_2Urhdn6bSrKvkD9yXLnwkUTCPWlFXUIzym9CmQ=w73-h73",
             "tintColor": "3dc5ff",
-            "size": 79062630,
+            "size": 400000000,
             "screenshotURLs": [
                 "https://cdn.discordapp.com/attachments/385519229606035468/785976983800381468/phone.png"
             ]
         },
         {
-            "name": "DolphiniOS",
-            "subtitle": "Gamecube/WII emulator for iOS",
-            "bundleIdentifier": "com.ipastore.dolphin",
-            "developerName": "DolphiniOS Team",
-            "version": "3.1.1",
+            "name": "Instagram Rhino",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.instagram",
+            "developerName": "Unknown",
+            "version": "158.0",
             "versionDate": "2020-11-21T11:55:19+00:00",
             "versionDescription": "",
             "downloadURL": "http://51.195.148.139/igrhino.ipa",
-            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
+            "localizedDescription": "Instagram Rhino adds customisation tweaks for Instagram",
             "iconURL": "https://cdn.discordapp.com/attachments/523529891619274773/785775437183451167/instagram.png",
-            "tintColor": "3dc5ff",
-            "size": 79062630,
+            "tintColor": "ffb700",
+            "size": 400000000,
             "screenshotURLs": [
                 "https://preview.redd.it/daz721unxm641.png?width=2250&format=png&auto=webp&s=775d777e8e6fdb25187b8066f1f07ca8da5e6ec1"
             ]
