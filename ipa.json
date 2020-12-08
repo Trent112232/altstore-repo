@@ -14,10 +14,11 @@
             "downloadURL": "https://github.com/utmapp/UTM/releases/download/v2.0.11/UTM.ipa",
             "localizedDescription": "UTM is a virtual machine designed for iDevices. It allows the user to run Windows, Android, Linux and other operating systems on their iDevice.",
             "iconURL": "https://lh4.googleusercontent.com/6Brg6iN9P_2z7Qv2no_RLfHwhpziRu_sY4VmF0Q--C9f-1G-zhUfE-NtfpOjmtUYe-d3LbZFcNr0uwIRBfJP4PFR84N62iFvxSZW7qrCO8Zcu_5GQbueS9h5HmCxdo4hDVpDtXulzQ=w73-h73",
-            "tintColor": "10b6ff",
+            "tintColor": "0033ff",
             "size": 1558400,
             "screenshotURLs": [
-                "https://images.cntechpost.com/images/2020/02/22/121.jpg"
+                "https://cdn.discordapp.com/attachments/385519229606035468/785954792216330310/image0.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/785954792500363324/image1.png"
             ]
         }
     ],
