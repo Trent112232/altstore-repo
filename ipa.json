@@ -54,11 +54,113 @@
             "screenshotURLs": [
                 "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
             ]
+        },
+        {
+            "name": "Odyssey",
+            "subtitle": "Odyssey Jailbreak IPA",
+            "bundleIdentifier": "com.ipastore.odyssey",
+            "developerName": "Odyssey Team",
+            "version": "1.2.2",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/TheOdysseyJB/Odyssey/releases/download/1.2.2/Odyssey-1.2.2.ipa",
+            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
+            "iconURL": "https://lh6.googleusercontent.com/mwRGvuJxqq4w_yanrpoh-EDnMOdQ0EJoCIow22z--SpuzpufnEQ0OWZVGlb6aS11x1Z5Sz88Id_jI7qd582hMYMtiXp2tsfnTDNq_q5LmAPMbQC-ovAGrWGKzj48Ql30xpCZ_Ydkdg=w73-h73",
+            "tintColor": "4f4f4f",
+            "size": 79062630,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/785973977406636042/phone.png"
+            ]
+        },
+        {
+            "name": "DolphiniOS",
+            "subtitle": "Gamecube/WII emulator for iOS",
+            "bundleIdentifier": "com.ipastore.dolphin",
+            "developerName": "DolphiniOS Team",
+            "version": "3.1.1",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Single-3.1.1-129.ipa",
+            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
+            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
+            "tintColor": "3dc5ff",
+            "size": 79062630,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
+            ]
+        },
+        {
+            "name": "DolphiniOS",
+            "subtitle": "Gamecube/WII emulator for iOS",
+            "bundleIdentifier": "com.ipastore.dolphin",
+            "developerName": "DolphiniOS Team",
+            "version": "3.1.1",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Single-3.1.1-129.ipa",
+            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
+            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
+            "tintColor": "3dc5ff",
+            "size": 79062630,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
+            ]
+        },
+        {
+            "name": "DolphiniOS",
+            "subtitle": "Gamecube/WII emulator for iOS",
+            "bundleIdentifier": "com.ipastore.dolphin",
+            "developerName": "DolphiniOS Team",
+            "version": "3.1.1",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Single-3.1.1-129.ipa",
+            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
+            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
+            "tintColor": "3dc5ff",
+            "size": 79062630,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
+            ]
+        },
+        {
+            "name": "DolphiniOS",
+            "subtitle": "Gamecube/WII emulator for iOS",
+            "bundleIdentifier": "com.ipastore.dolphin",
+            "developerName": "DolphiniOS Team",
+            "version": "3.1.1",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Single-3.1.1-129.ipa",
+            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
+            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
+            "tintColor": "3dc5ff",
+            "size": 79062630,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
+            ]
+        },
+        {
+            "name": "DolphiniOS",
+            "subtitle": "Gamecube/WII emulator for iOS",
+            "bundleIdentifier": "com.ipastore.dolphin",
+            "developerName": "DolphiniOS Team",
+            "version": "3.1.1",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Single-3.1.1-129.ipa",
+            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
+            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
+            "tintColor": "3dc5ff",
+            "size": 79062630,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
+            ]
         }
     ],
     "news": [
         {
-            "title": "Welcome to IPAStore Source (beta)!",
+            "title": "Welcome to IPAStore Source!",
             "identifier": "ipastore-welcome",
             "caption": "Welcome to our new AltStore IPA Source.",
             "tintColor": "ff0051",
