@@ -20,6 +20,40 @@
                 "https://cdn.discordapp.com/attachments/385519229606035468/785954792216330310/image0.png",
                 "https://cdn.discordapp.com/attachments/385519229606035468/785954792500363324/image1.png"
             ]
+        },
+        {
+            "name": "DolphiniOS",
+            "subtitle": "Gamecube/WII emulator for iOS",
+            "bundleIdentifier": "com.ipastore.dolphin",
+            "developerName": "DolphiniOS Team",
+            "version": "3.1.1",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Single-3.1.1-129.ipa",
+            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
+            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
+            "tintColor": "9cfffc",
+            "size": 79062630,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
+            ]
+        },
+        {
+            "name": "DolphiniOS",
+            "subtitle": "Gamecube/WII emulator for iOS",
+            "bundleIdentifier": "com.ipastore.dolphinl",
+            "developerName": "DolphiniOS Team",
+            "version": "3.1.1-legacy",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Uni-3.1.1-129.ipa",
+            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
+            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
+            "tintColor": "9cfffc",
+            "size": 79062630,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
+            ]
         }
     ],
     "news": [
