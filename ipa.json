@@ -39,7 +39,7 @@
             ]
         },
         {
-            "name": "DolphiniOS",
+            "name": "DolphiniOS Legacy",
             "subtitle": "Gamecube/WII emulator for iOS",
             "bundleIdentifier": "com.ipastore.dolphinl",
             "developerName": "DolphiniOS Team",
