@@ -75,35 +75,35 @@
         {
             "name": "Unc0ver",
             "subtitle": "IPAStore - Jailbreak",
-            "bundleIdentifier": "com.ipastore.dolphin",
+            "bundleIdentifier": "com.ipastore.uncover",
             "developerName": "Unc0ver Team",
             "version": "5.3.1",
             "versionDate": "2020-11-21T11:55:19+00:00",
             "versionDescription": "",
             "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
             "localizedDescription": "Unc0ver Jailbreak IPA",
-            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
+            "iconURL": "https://lh3.googleusercontent.com/xTawQPWsJH3S7GdCAoVMiw1TUfoBSDaTsyPZjy0S1h5FYRv2IT0GoEpoHUp6my-tjzJRhsRg-3q0ZvlYLZavIRJ0UpwQPIMFaMLZDHD-cQfeCUf6tIvq-NCJh2pmp4TF9vC8nDXXFA=w73-h73",
             "tintColor": "4f4f4f",
             "size": 79062630,
             "screenshotURLs": [
-                "https://cdn.discordapp.com/attachments/385519229606035468/785975423032098856/phone.png"
+                "https://cdn.discordapp.com/attachments/385519229606035468/785975423032098856/phone.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/785976164606672906/phone.png"
             ]
         },
         {
-            "name": "DolphiniOS",
-            "subtitle": "Gamecube/WII emulator for iOS",
-            "bundleIdentifier": "com.ipastore.dolphin",
-            "developerName": "DolphiniOS Team",
+            "name": "Facebook++",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.facebookplus",
             "version": "3.1.1",
             "versionDate": "2020-11-21T11:55:19+00:00",
             "versionDescription": "",
-            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Single-3.1.1-129.ipa",
-            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
-            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
+            "downloadURL": "http://51.195.148.139/facebook.ipa",
+            "localizedDescription": "Facebook++ is a tweaked modification to the iOS social-media app Facebook.",
+            "iconURL": "https://lh5.googleusercontent.com/rRNVTzSAmnTGjsiutKKY1QhKpyqxs1G1QDCrhz-DzADYruV_nWBX_oreoBsTQwV79vFzkaFZOA70m5_CZVQ_JfLPcndmeYBtmMA_2Urhdn6bSrKvkD9yXLnwkUTCPWlFXUIzym9CmQ=w73-h73",
             "tintColor": "3dc5ff",
             "size": 79062630,
             "screenshotURLs": [
-                "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
+                "https://cdn.discordapp.com/attachments/385519229606035468/785976983800381468/phone.png"
             ]
         },
         {
