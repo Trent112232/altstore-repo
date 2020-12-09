@@ -170,7 +170,7 @@
             "versionDescription": "",
             "downloadURL": "http://51.195.148.139/tiktok_plus.ipa",
             "localizedDescription": "TikTok++ is a tweaked modification to the iOS social-media and video sharing app TikTok.",
-            "iconURL": "https://lh4.googleusercontent.com/VpwJ2Je-qCuN2U_485Kbc9k3e9VQPocBpSnUazx7QW3W8fBbxKn0opY-fYAjGS5bTG2eeva3jFUxc9Do03oco4cj1njGZH3Z_y5Kiju3wN0WLa56atorZp_visPkNupEDqFD0AaMxA=w73-h73",
+            "iconURL": "https://cdn.discordapp.com/attachments/385519229606035468/786141872770121748/icon_twitch2.png",
             "tintColor": "783142",
             "size": 100000000,
             "screenshotURLs": [
@@ -186,20 +186,38 @@
             "version": "2020.36.0",
             "versionDate": "2020-11-21T11:55:19+00:00",
             "versionDescription": "",
-            "downloadURL": "http://51.195.148.139/reddit_plus.ipa",
+            "downloadURL": "http://51.195.148.139/twitch_plus.ipa",
             "localizedDescription": "Twitch++ is a tweaked modification to the iOS streaming app Twitch.",
-            "iconURL": "https://lh6.googleusercontent.com/XMGWBxt7ll1KKpsT9l7JyxZi9lrGAfE-47m17-o7r4xmfuin48Hsd7I3soVyO1M6EbZ9qLOnowjXYbjlLAuYKsWewwL96wJD39b1eIvO7g0D-ndd8xh_rKigXvVO6nsU3Ec=w73-h73",
+            "iconURL": "https://cdn.discordapp.com/attachments/385519229606035468/786141870963163156/icon_twitch.png",
             "tintColor": "ed5f00",
             "size": 50000000,
             "screenshotURLs": [
                 "https://cdn.discordapp.com/attachments/385519229606035468/786140827620605962/twic2.png",
                 "https://cdn.discordapp.com/attachments/385519229606035468/786140828602990652/twitc1.png"
             ]
+        },
+        {
+            "name": "Youtube++",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.youtube",
+            "developerName": "Unknown",
+            "version": "2020.36.0",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "http://51.195.148.139/youtube_plus.ipa",
+            "localizedDescription": "TikTok++ is a tweaked modification to the iOS social-media and video sharing app TikTok.",
+            "iconURL": "https://cdn.discordapp.com/attachments/385519229606035468/786141872770121748/icon_twitch2.png",
+            "tintColor": "783142",
+            "size": 100000000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/786139627420516362/image0.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/786139627672961044/image1.png"
+            ]
         }
     ],
     "news": [
         {
-            "title": "Welcome to IPAStore Source!",
+            "title": "Welcome to IPAStore Source [BETA]!",
             "identifier": "ipastore-welcome",
             "caption": "Welcome to our new AltStore IPA Source.",
             "tintColor": "ff0051",
@@ -207,6 +225,16 @@
             "imageURL": "https://cdn.discordapp.com/attachments/523529891619274773/785952008153595994/ipastore.png",
             "date": "2020-12-08",
             "notify": false
+        },
+        {
+            "title": "The IPAStore Source is now in BETA!",
+            "identifier": "ipastore-notif_1",
+            "caption": "Our source is now officially in BETA!.",
+            "tintColor": "f01313",
+            "url": "https://trentdev.net/ipastore/",
+            "imageURL": "",
+            "date": "2020-12-09",
+            "notify": true
         }
     ],
     "userInfo": {
