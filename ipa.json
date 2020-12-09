@@ -15,7 +15,7 @@
             "localizedDescription": "UTM is a virtual machine designed for iDevices. It allows the user to run Windows, Android, Linux and other operating systems on their iDevice.",
             "iconURL": "https://lh4.googleusercontent.com/6Brg6iN9P_2z7Qv2no_RLfHwhpziRu_sY4VmF0Q--C9f-1G-zhUfE-NtfpOjmtUYe-d3LbZFcNr0uwIRBfJP4PFR84N62iFvxSZW7qrCO8Zcu_5GQbueS9h5HmCxdo4hDVpDtXulzQ=w73-h73",
             "tintColor": "0033ff",
-            "size": 1558400,
+            "size": 15584000,
             "screenshotURLs": [
                 "https://cdn.discordapp.com/attachments/385519229606035468/785954792216330310/image0.png",
                 "https://cdn.discordapp.com/attachments/385519229606035468/785954792500363324/image1.png"
@@ -84,7 +84,7 @@
             "localizedDescription": "Unc0ver Jailbreak IPA",
             "iconURL": "https://lh3.googleusercontent.com/xTawQPWsJH3S7GdCAoVMiw1TUfoBSDaTsyPZjy0S1h5FYRv2IT0GoEpoHUp6my-tjzJRhsRg-3q0ZvlYLZavIRJ0UpwQPIMFaMLZDHD-cQfeCUf6tIvq-NCJh2pmp4TF9vC8nDXXFA=w73-h73",
             "tintColor": "4f4f4f",
-            "size": 9882,
+            "size": 98820000,
             "screenshotURLs": [
                 "https://cdn.discordapp.com/attachments/385519229606035468/785975423032098856/phone.png",
                 "https://cdn.discordapp.com/attachments/385519229606035468/785976164606672906/phone.png"
@@ -102,7 +102,7 @@
             "localizedDescription": "Facebook++ is a tweaked modification to the iOS social-media app Facebook.",
             "iconURL": "https://lh5.googleusercontent.com/rRNVTzSAmnTGjsiutKKY1QhKpyqxs1G1QDCrhz-DzADYruV_nWBX_oreoBsTQwV79vFzkaFZOA70m5_CZVQ_JfLPcndmeYBtmMA_2Urhdn6bSrKvkD9yXLnwkUTCPWlFXUIzym9CmQ=w73-h73",
             "tintColor": "3dc5ff",
-            "size": 50000,
+            "size": 50000000,
             "screenshotURLs": [
                 "https://cdn.discordapp.com/attachments/385519229606035468/785976983800381468/phone.png"
             ]
@@ -119,7 +119,7 @@
             "localizedDescription": "Instagram Rhino adds customisation tweaks for Instagram",
             "iconURL": "https://cdn.discordapp.com/attachments/523529891619274773/785775437183451167/instagram.png",
             "tintColor": "ffb700",
-            "size": 50000,
+            "size": 50000000,
             "screenshotURLs": [
                 "https://cdn.discordapp.com/attachments/385519229606035468/785986219351474246/instag1.png",
                 "https://cdn.discordapp.com/attachments/385519229606035468/785986186363404288/instag2.png"
@@ -136,27 +136,27 @@
             "downloadURL": "http://51.195.148.139/reddit_plus.ipa",
             "localizedDescription": "Reddit++ is a tweaked modification to the iOS forum app Reddit.",
             "iconURL": "https://lh6.googleusercontent.com/XMGWBxt7ll1KKpsT9l7JyxZi9lrGAfE-47m17-o7r4xmfuin48Hsd7I3soVyO1M6EbZ9qLOnowjXYbjlLAuYKsWewwL96wJD39b1eIvO7g0D-ndd8xh_rKigXvVO6nsU3Ec=w73-h73",
-            "tintColor": "3dc5ff",
-            "size": 50000,
+            "tintColor": "ed5f00",
+            "size": 50000000,
             "screenshotURLs": [
                 "https://cdn.discordapp.com/attachments/385519229606035468/781794489572130857/image0.png"
             ]
         },
         {
-            "name": "DolphiniOS",
-            "subtitle": "Gamecube/WII emulator for iOS",
-            "bundleIdentifier": "com.ipastore.dolphin",
-            "developerName": "DolphiniOS Team",
-            "version": "3.1.1",
+            "name": "Spotify++",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.spotify",
+            "developerName": "Unknown",
+            "version": "8.5.58",
             "versionDate": "2020-11-21T11:55:19+00:00",
             "versionDescription": "",
-            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Single-3.1.1-129.ipa",
-            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
-            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
-            "tintColor": "3dc5ff",
-            "size": 79062630,
+            "downloadURL": "http://51.195.148.139/spotify++.ipa",
+            "localizedDescription": "Spotify++ is a tweaked modification to the iOS music app Spotify.",
+            "iconURL": "https://lh4.googleusercontent.com/De_W9O9HX4nbnuzOoUA9TAkGsr5fNjEhujnvgQtMyKtL4Irjpjza6YY3iYfMGj2L_YOU_Qm0YvwECGmheTsQbswy1a3VqIyVneLOMCQzMN8VO10cJHdhNvQhgxObDGbMO9Cp74n8TA=w73-h73",
+            "tintColor": "00c400",
+            "size": 100000000,
             "screenshotURLs": [
-                "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
+                "https://2672686a4cf38e8c2458-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com/2016-05-03-221634.jpeg"
             ]
         }
     ],
