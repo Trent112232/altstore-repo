@@ -156,7 +156,44 @@
             "tintColor": "00c400",
             "size": 100000000,
             "screenshotURLs": [
-                "https://2672686a4cf38e8c2458-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com/2016-05-03-221634.jpeg"
+                "https://cdn.discordapp.com/attachments/385519229606035468/786136958220894228/spotify_1.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/786136956772810752/spotify_2.png"
+            ]
+        },
+        {
+            "name": "TikTok++",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.tiktok",
+            "developerName": "Michael (ClassicEmoji)",
+            "version": "2020.36.0",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "http://51.195.148.139/tiktok_plus.ipa",
+            "localizedDescription": "TikTok++ is a tweaked modification to the iOS social-media and video sharing app TikTok.",
+            "iconURL": "https://lh4.googleusercontent.com/VpwJ2Je-qCuN2U_485Kbc9k3e9VQPocBpSnUazx7QW3W8fBbxKn0opY-fYAjGS5bTG2eeva3jFUxc9Do03oco4cj1njGZH3Z_y5Kiju3wN0WLa56atorZp_visPkNupEDqFD0AaMxA=w73-h73",
+            "tintColor": "783142",
+            "size": 100000000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/786139627420516362/image0.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/786139627672961044/image1.png"
+            ]
+        },
+        {
+            "name": "Twitch++",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.twitch",
+            "developerName": "Unknown",
+            "version": "2020.36.0",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "http://51.195.148.139/reddit_plus.ipa",
+            "localizedDescription": "Twitch++ is a tweaked modification to the iOS streaming app Twitch.",
+            "iconURL": "https://lh6.googleusercontent.com/XMGWBxt7ll1KKpsT9l7JyxZi9lrGAfE-47m17-o7r4xmfuin48Hsd7I3soVyO1M6EbZ9qLOnowjXYbjlLAuYKsWewwL96wJD39b1eIvO7g0D-ndd8xh_rKigXvVO6nsU3Ec=w73-h73",
+            "tintColor": "ed5f00",
+            "size": 50000000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/786140827620605962/twic2.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/786140828602990652/twitc1.png"
             ]
         }
     ],
